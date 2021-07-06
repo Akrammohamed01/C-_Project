@@ -1,0 +1,9 @@
+﻿  Source.cpp
+c:\users\lapshop\desktop\sfml\sfml template\sfml template\source.cpp(35): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\lapshop\desktop\sfml\sfml template\sfml template\source.cpp(40): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\lapshop\desktop\sfml\sfml template\sfml template\source.cpp(105): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\lapshop\desktop\sfml\sfml template\sfml template\source.cpp(213): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\lapshop\desktop\sfml\sfml template\sfml template\source.cpp(219): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\lapshop\desktop\sfml\sfml template\sfml template\source.cpp(220): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\lapshop\desktop\sfml\sfml template\sfml template\source.cpp(224): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  SFML Template.vcxproj -> C:\Users\lapshop\Desktop\SFML\SFML Template\Debug\SFML Template.exe
